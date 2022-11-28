@@ -1,7 +1,6 @@
 # Hi 🖐🖐
 my name is ✨Camilla✨ an Italian👩🍕Junior developer.
 
-I'm currently **learning** on TOP (The Odin Project) && CS50 - Web Programming with Python and Javascript
 
 
 
