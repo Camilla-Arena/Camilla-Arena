@@ -1,5 +1,8 @@
-# Hi 🖐🖐
-my name is ✨Camilla✨ an Italian👩🍕Junior developer.
+# Hi there 👋
+<b>I'm a Junior Developer who lives and works in Italy.</b>
+
+
+<b>NOW</b>
 
 I'm working with:
 
@@ -9,17 +12,20 @@ IDE used:
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-<!--
-**Camilla-Arena/Camilla-Arena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>BIO:</b>
+-  I'm learning how to write efficient code
+-  I like 🍕🍕 & 🍦🍦
+- ⚡️Fun fact: I'm passionate about space 🚀
 
-Here are some ideas to get you started:
+# 📫 Reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+https://www.linkedin.com/in/camilla-arena-816984121/
+
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+
+camilla.arena@hotmail.it
+
+-----
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Camilla-Arena)](https://github.com/anuraghazra/github-readme-stats)
