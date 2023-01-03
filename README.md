@@ -27,5 +27,4 @@ https://www.linkedin.com/in/camilla-arena-816984121/
 
 camilla.arena@hotmail.it
 
------
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Camilla-Arena)](https://github.com/anuraghazra/github-readme-stats)
+
