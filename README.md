@@ -30,5 +30,5 @@ https://www.linkedin.com/in/camilla-arena-816984121/
 
 camilla.arena@hotmail.it
 
-### Articoli pubblicati su Medium
+## Last Medium article
 [![Camilla Arena Medium](https://github-readme-medium.vercel.app/?username=camilla.arena21)](https://medium.com/@camilla.arena21)
